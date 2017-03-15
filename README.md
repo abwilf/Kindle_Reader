@@ -7,6 +7,6 @@
 3. Open the folder that appears on your desktop.
 4. Find the file "MyClippings.txt" in that folder.
 5. Drag it to the repository folder
-6. Open up Terminal, cd to the repository directory and type make notes.
+6. Open up Terminal, cd to the repository directory and type `make all`, then `./notes`.
 
 That's it!  Go to your desktop and check out the sorted notes files.
