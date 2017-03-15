@@ -1,6 +1,6 @@
 # Welcome to Kindle Reader!
 
-##To run this program:
+### To run this program:
 
 1. Download the repository to your Desktop.
 2. Plug in your Kindle.
